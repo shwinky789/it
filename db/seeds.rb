@@ -1,0 +1,5 @@
+Genre.create(name:"Rock")
+Genre.create(name:"Hip Hop")
+Genre.create(name:"Indie")
+Genre.create(name:"Electronic")
+Genre.create(name:"Other")
